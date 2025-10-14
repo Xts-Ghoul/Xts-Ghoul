@@ -12,7 +12,7 @@ I am a second-year software developer at the Bit-Academy. My experiences with so
 <li>HTML/CSS</li>
 <li>C#/Unity</li>
 
-Using frameworks like:
+<strong>Using frameworks like:</strong>
 
 <li>Node.js</li>
 <li>Currently learning Laravel</li>
