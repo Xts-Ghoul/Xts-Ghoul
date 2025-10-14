@@ -1,32 +1,26 @@
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+Alex Bastiaanse
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+Welcome to my personal profile!
+
+I am a second-year software developer at the Bit-Academy. My experiences with software are:
+
+PHP
+MySQL
+JavaScript
+JSON
+HTML/CSS
+C#/Unity
+
+Using frameworks like:
+
+Node.js
+(Currently learning Laravel)
+
+I have worked on multiple different projects:
+
+Working with APIs
+Working with Caching
+Working with mobile compatibility
+
+Here’s my LinkedIn profile!
+https://www.linkedin.com/in/alex-b-096368381/
