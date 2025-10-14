@@ -23,5 +23,5 @@ I am a second-year software developer at the Bit-Academy. My experiences with so
 <li>Working with Caching</li>
 <li>Working with mobile compatibility</li>
 
-<h4>Here’s my LinkedIn profile!</h4>
-https://www.linkedin.com/in/alex-b-096368381/
+<h2>Here’s my LinkedIn profile!</h2>
+<h3>https://www.linkedin.com/in/alex-b-096368381/</h3>
