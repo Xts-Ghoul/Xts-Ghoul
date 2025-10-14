@@ -5,10 +5,15 @@ Welcome to my personal profile!
 I am a second-year software developer at the Bit-Academy. My experiences with software are:
 
 _PHP_
+
 _MySQL_
+
 _JavaScript_
+
 _JSON_
+
 _HTML/CSS_
+
 _C#/Unity_
 
 Using frameworks like:
