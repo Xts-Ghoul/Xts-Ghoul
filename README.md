@@ -1,7 +1,38 @@
-## Hi there 👋
+💻 Alex Bastiaanse
 
-Hi there 👋 I'm Skimazk, And i am a student at the Bit-academy!
+Welcome to my personal profile!
 
-Bit academy is a college that focusses on learning coding to students who want to learn, like myself!
+I’m Alex Bastiaanse, a passionate second-year Software Developer at Bit-Academy, driven by a love for clean code, problem-solving, and creating impactful digital experiences.
 
-I'm very passionate about coding in its entirety and im currently working on the back-end track!
+🚀 Technical Skills
+
+Languages & Technologies:
+
+PHP • MySQL • JavaScript • JSON • HTML/CSS • C#/Unity
+
+Frameworks & Tools:
+
+Node.js
+
+Currently learning: Laravel
+
+🧠 Experience & Projects
+
+I’ve worked on a variety of software development projects, focusing on:
+
+🔗 API integration — connecting systems and streamlining data flow
+
+⚡ Caching optimization — improving performance and scalability
+
+📱 Mobile compatibility — ensuring seamless user experiences across devices
+
+I enjoy exploring how software can be made more efficient, intuitive, and user-focused — whether it’s through backend logic or front-end design.
+
+🎯 Career Goals
+
+I’m always eager to learn new technologies, collaborate with creative teams, and build software that makes a difference. I’m currently expanding my expertise in modern web frameworks and full-stack development.
+
+🌐 Connect with Me
+
+Let’s connect and create something amazing!
+👉 LinkedIn: Alex Bastiaanse
