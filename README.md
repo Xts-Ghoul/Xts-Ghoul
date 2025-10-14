@@ -4,7 +4,8 @@ Welcome to my personal profile!
 
 I am a second-year software developer at the Bit-Academy. My experiences with software are:
 
-(-)PHP
+
+<li>PHP</li>
 -MySQL
 -JavaScript
 -JSON
