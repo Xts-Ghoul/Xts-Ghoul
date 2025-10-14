@@ -1,3 +1,4 @@
+'''
 Alex Bastiaanse
 
 Welcome to my personal profile!
@@ -24,3 +25,4 @@ Working with mobile compatibility
 
 Here’s my LinkedIn profile!
 https://www.linkedin.com/in/alex-b-096368381/
+'''
