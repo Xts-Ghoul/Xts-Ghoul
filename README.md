@@ -1,38 +1,26 @@
-💻 Alex Bastiaanse
+##Alex Bastiaanse
 
-Welcome to my personal profile!
+Welcome to my personal profile.
 
-I’m Alex Bastiaanse, a passionate second-year Software Developer at Bit-Academy, driven by a love for clean code, problem-solving, and creating impactful digital experiences.
+I am a second-year software developer at the Bit-Academy. My experiences with software are:
 
-🚀 Technical Skills
+PHP
+MySQL
+JavaScript
+JSON
+HTML/CSS
+C#/Unity
 
-Languages & Technologies:
-
-PHP • MySQL • JavaScript • JSON • HTML/CSS • C#/Unity
-
-Frameworks & Tools:
+Using frameworks like:
 
 Node.js
+(Currently learning Laravel)
 
-Currently learning: Laravel
+I have worked on multiple different projects:
 
-🧠 Experience & Projects
+Working with APIs
+Working with Caching
+Working with mobile compatibility
 
-I’ve worked on a variety of software development projects, focusing on:
-
-🔗 API integration — connecting systems and streamlining data flow
-
-⚡ Caching optimization — improving performance and scalability
-
-📱 Mobile compatibility — ensuring seamless user experiences across devices
-
-I enjoy exploring how software can be made more efficient, intuitive, and user-focused — whether it’s through backend logic or front-end design.
-
-🎯 Career Goals
-
-I’m always eager to learn new technologies, collaborate with creative teams, and build software that makes a difference. I’m currently expanding my expertise in modern web frameworks and full-stack development.
-
-🌐 Connect with Me
-
-Let’s connect and create something amazing!
-👉 LinkedIn: Alex Bastiaanse
+Here’s my LinkedIn profile!
+https://www.linkedin.com/in/alex-b-096368381/
