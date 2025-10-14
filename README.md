@@ -1,6 +1,6 @@
-Alex Bastiaanse
+<strong><h1>Alex Bastiaanse</h1></strong>
 
-Welcome to my personal profile!
+<h3>Welcome to my personal profile!</h3>
 
 I am a second-year software developer at the Bit-Academy. My experiences with software are:
 
@@ -12,16 +12,16 @@ I am a second-year software developer at the Bit-Academy. My experiences with so
 <li>HTML/CSS</li>
 <li>C#/Unity</li>
 
-<strong>Using frameworks like:</strong>
+<h2><strong>Using frameworks like:</strong></h2>
 
 <li>Node.js</li>
 <li>Currently learning Laravel</li>
 
-I have worked on multiple different projects:
+<h2>I have worked on multiple different projects:</h2>
 
 <li>Working with APIs</li>
 <li>Working with Caching</li>
 <li>Working with mobile compatibility</li>
 
-Here’s my LinkedIn profile!
+<h4>Here’s my LinkedIn profile!</h4>
 https://www.linkedin.com/in/alex-b-096368381/
