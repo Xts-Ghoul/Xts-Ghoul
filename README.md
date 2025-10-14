@@ -4,12 +4,12 @@ Welcome to my personal profile!
 
 I am a second-year software developer at the Bit-Academy. My experiences with software are:
 
--PHP
--MySQL
--JavaScript
--JSON
--HTML/CSS
--C#/Unity
+'-PHP
+'-MySQL
+'-JavaScript
+'-JSON
+'-HTML/CSS
+'-C#/Unity
 
 Using frameworks like:
 
