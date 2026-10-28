@@ -24,5 +24,8 @@ I am a third-year software developer at the Bit-Academy. My experiences with sof
 <li>Working with mobile compatibility</li>
 <li>Working with unity, c#, databases, API's, and working in a team for previous internship</li>
 
+<h2>if you want to see what i did in my previous internship, heres the working link to the website, go check it out!</h2>
+<h3>https://3ddronevlucht.droneradar.nl/</h3>
+
 <h2>Here’s my LinkedIn profile!</h2>
 <h3>https://www.linkedin.com/in/alex-b-096368381/</h3>
